@@ -1,0 +1,18 @@
+{
+  "minecraft": "1.21.1",
+  "loader": "fabric",
+  "loaderVersion": "",
+  "removeExtraMods": true,
+  "server": {
+    "name": "Mi Server",
+    "host": "",
+    "port": 25565
+  },
+  "news": [
+    {
+      "title": "DIA 1",
+      "text": "Este es el dia uno de jecosafio 1."
+    }
+  ],
+  "mods": []
+}
