@@ -14,5 +14,553 @@
       "text": ""
     }
   ],
-  "mods": []
+  "mods": [
+    {
+      "name": "1.21.1.SecurityCraft-fabric-V0.6.1",
+      "file": "1.21.1.SecurityCraft-fabric-V0.6.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/1.21.1.SecurityCraft-fabric-V0.6.1.jar",
+      "sha1": "d439a3609330153dc589762f159e71f344d34a9a"
+    },
+    {
+      "name": "Axiom-6.1.3-for-MC1.21.1",
+      "file": "Axiom-6.1.3-for-MC1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/Axiom-6.1.3-for-MC1.21.1.jar",
+      "sha1": "dd65ba58aa416aafbab9b306f56fcf6fab1db9ca"
+    },
+    {
+      "name": "BadOptimizations-2.4.1-1.21.1",
+      "file": "BadOptimizations-2.4.1-1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/BadOptimizations-2.4.1-1.21.1.jar",
+      "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
+    },
+    {
+      "name": "Clumps-fabric-1.21.1-19.0.0.1",
+      "file": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "sha1": "14628ba309d876cfefc4cef864a66ef12812066c"
+    },
+    {
+      "name": "Controlling-fabric-1.21.1-19.0.5",
+      "file": "Controlling-fabric-1.21.1-19.0.5.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/Controlling-fabric-1.21.1-19.0.5.jar",
+      "sha1": "22d2407311298d0185b606aa1dd03ae33b98dff3"
+    },
+    {
+      "name": "CraftTweaker-fabric-1.21.1-21.0.38",
+      "file": "CraftTweaker-fabric-1.21.1-21.0.38.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/CraftTweaker-fabric-1.21.1-21.0.38.jar",
+      "sha1": "5ae830c68919a115d2aba97c4ee2bea6600234b3"
+    },
+    {
+      "name": "CreeperOverhaul-fabric-1.21.1-4.0.6",
+      "file": "CreeperOverhaul-fabric-1.21.1-4.0.6.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/CreeperOverhaul-fabric-1.21.1-4.0.6.jar",
+      "sha1": "1e12b0d7c310ad60bd648dd97cbc459ab57eaa38"
+    },
+    {
+      "name": "CustomPlayerModels-Fabric-1.21-0.6.27a",
+      "file": "CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
+      "sha1": "bc902bd297c54d50b1ed7ffd2036464c970b0703"
+    },
+    {
+      "name": "DEDsafio4FanByNavithLabs-1.4.0-1.21.1",
+      "file": "DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
+      "sha1": "d2a9ced04ed7ee07b210ea63f87889f501b86ee2"
+    },
+    {
+      "name": "EonRevil-1.0.0",
+      "file": "EonRevil-1.0.0.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/EonRevil-1.0.0.jar",
+      "sha1": "0fc04bafbb83dc7e37ccd9b128e2d0f85c014591"
+    },
+    {
+      "name": "FauxCustomEntityData-fabric-1.21.1-13.0.1",
+      "file": "FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
+      "sha1": "bd2e38ab563d889675f138f0eaeb63f0bb7fbb79"
+    },
+    {
+      "name": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric",
+      "file": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee"
+    },
+    {
+      "name": "Gnetum-4.6.3+1.21.1-fabric",
+      "file": "Gnetum-4.6.3+1.21.1-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/Gnetum-4.6.3%2B1.21.1-fabric.jar",
+      "sha1": "4a38aab6f1e573e361a73ca56af596343f2da943"
+    },
+    {
+      "name": "ImmediatelyFast-Fabric-1.6.15+1.21.1",
+      "file": "ImmediatelyFast-Fabric-1.6.15+1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar",
+      "sha1": "5067bdff1d5cc6d2dd89986f98bd8bd7ae62fb98"
+    },
+    {
+      "name": "Ixeris-4.6.10+1.21.1-fabric",
+      "file": "Ixeris-4.6.10+1.21.1-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/Ixeris-4.6.10%2B1.21.1-fabric.jar",
+      "sha1": "f790481f85221c74176e7660ea48e4fe514869ab"
+    },
+    {
+      "name": "MouseTweaks-fabric-mc1.21-2.26",
+      "file": "MouseTweaks-fabric-mc1.21-2.26.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/MouseTweaks-fabric-mc1.21-2.26.jar",
+      "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210"
+    },
+    {
+      "name": "Not.Enough.Recipe.Book-FABRIC-0.4.3+1.21",
+      "file": "Not.Enough.Recipe.Book-FABRIC-0.4.3+1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/Not.Enough.Recipe.Book-FABRIC-0.4.3%2B1.21.jar",
+      "sha1": "f7fcc3d8969f0838e32bf8dd0ed17ef46c07a655"
+    },
+    {
+      "name": "OctoLib-FABRIC-0.6.2+1.21",
+      "file": "OctoLib-FABRIC-0.6.2+1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/OctoLib-FABRIC-0.6.2%2B1.21.jar",
+      "sha1": "e18bf47209c43d2eff882fd906f2cafd887b7378"
+    },
+    {
+      "name": "Pehkui-3.8.3+1.14.4-1.21",
+      "file": "Pehkui-3.8.3+1.14.4-1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/Pehkui-3.8.3%2B1.14.4-1.21.jar",
+      "sha1": "3ce548910f0aa2cef79dc333982493ccf8d73a3e"
+    },
+    {
+      "name": "ScalableLux-fabric-0.3.0-alpha.0.7-all",
+      "file": "ScalableLux-fabric-0.3.0-alpha.0.7-all.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/ScalableLux-fabric-0.3.0-alpha.0.7-all.jar",
+      "sha1": "ff6baa9ab1f2aecf0eba5b72595085551adddc7a"
+    },
+    {
+      "name": "Searchables-fabric-1.21.1-1.0.2",
+      "file": "Searchables-fabric-1.21.1-1.0.2.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/Searchables-fabric-1.21.1-1.0.2.jar",
+      "sha1": "2777db0b967e80e0659053154f32f14a0e99a7a7"
+    },
+    {
+      "name": "almanac-fabric-1.21.1-1.26.10.3",
+      "file": "almanac-fabric-1.21.1-1.26.10.3.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/almanac-fabric-1.21.1-1.26.10.3.jar",
+      "sha1": "017af7e5bdef4789f77ac610b26ed1cb50c62645"
+    },
+    {
+      "name": "architectury-13.0.11-fabric",
+      "file": "architectury-13.0.11-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/architectury-13.0.11-fabric.jar",
+      "sha1": "18200609d4c3571c4237b50884966f6fd82431ea"
+    },
+    {
+      "name": "athena-fabric-1.21.1-4.0.6",
+      "file": "athena-fabric-1.21.1-4.0.6.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/athena-fabric-1.21.1-4.0.6.jar",
+      "sha1": "92534d85cad33ab1fee598068443c685f4bb06e0"
+    },
+    {
+      "name": "attributefix-fabric-1.21.1-21.1.3",
+      "file": "attributefix-fabric-1.21.1-21.1.3.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/attributefix-fabric-1.21.1-21.1.3.jar",
+      "sha1": "197b8331d3526b54f0deacc5ed80ea1f6f9edf94"
+    },
+    {
+      "name": "balm-fabric-1.21.1-21.0.66",
+      "file": "balm-fabric-1.21.1-21.0.66.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/balm-fabric-1.21.1-21.0.66.jar",
+      "sha1": "37266aadaed39205f4a3844930e76d2eebb866a4"
+    },
+    {
+      "name": "bookshelf-fabric-1.21.1-21.1.81",
+      "file": "bookshelf-fabric-1.21.1-21.1.81.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/bookshelf-fabric-1.21.1-21.1.81.jar",
+      "sha1": "c6cfd92af694102ee52ff1069f05804c75c0da7b"
+    },
+    {
+      "name": "chat_heads-0.15.7-fabric-1.21",
+      "file": "chat_heads-0.15.7-fabric-1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/chat_heads-0.15.7-fabric-1.21.jar",
+      "sha1": "5f37d428e0cc5ff08ed73a21ee11af0dde4105c2"
+    },
+    {
+      "name": "chipped-fabric-1.21.1-4.0.2",
+      "file": "chipped-fabric-1.21.1-4.0.2.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/chipped-fabric-1.21.1-4.0.2.jar",
+      "sha1": "add18f65d7b131e05313cd98069cb71adac3483c"
+    },
+    {
+      "name": "cloth-config-15.0.140-fabric",
+      "file": "cloth-config-15.0.140-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/cloth-config-15.0.140-fabric.jar",
+      "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
+    },
+    {
+      "name": "distraction_free_recipes-fabric-1.2.1-1.21.1",
+      "file": "distraction_free_recipes-fabric-1.2.1-1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/distraction_free_recipes-fabric-1.2.1-1.21.1.jar",
+      "sha1": "df28f25c6e555581e27022f38ec2d754171fe60c"
+    },
+    {
+      "name": "durabilitytooltip-1.2.0-fabric-mc1.21",
+      "file": "durabilitytooltip-1.2.0-fabric-mc1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/durabilitytooltip-1.2.0-fabric-mc1.21.jar",
+      "sha1": "d4edca9356a67159f14821373f9b5f2a2feaafb5"
+    },
+    {
+      "name": "dynamic-fps-3.11.4+minecraft-1.21.0-fabric",
+      "file": "dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar",
+      "sha1": "c0ee92c6d8a48e077aa9b02f3470619eab17d59c"
+    },
+    {
+      "name": "easy_npc-fabric-1.21.1-7.17.1",
+      "file": "easy_npc-fabric-1.21.1-7.17.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/easy_npc-fabric-1.21.1-7.17.1.jar",
+      "sha1": "16269b191a12ccdd35f683fd05fe4fddc43895fb"
+    },
+    {
+      "name": "easy_npc_bundle-fabric-1.21.1-7.17.1",
+      "file": "easy_npc_bundle-fabric-1.21.1-7.17.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/easy_npc_bundle-fabric-1.21.1-7.17.1.jar",
+      "sha1": "dd4e4ee7b43c603e0ed72762b088f63ba5a08460"
+    },
+    {
+      "name": "easy_npc_config_ui-fabric-1.21.1-7.17.1",
+      "file": "easy_npc_config_ui-fabric-1.21.1-7.17.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/easy_npc_config_ui-fabric-1.21.1-7.17.1.jar",
+      "sha1": "9f1fea1500ae82e9b28e057bae98f77807a61d57"
+    },
+    {
+      "name": "emi-1.1.24+1.21.1+fabric",
+      "file": "emi-1.1.24+1.21.1+fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/emi-1.1.24%2B1.21.1%2Bfabric.jar",
+      "sha1": "6abcf2a10a629e401bff73a8fd1ad328a72b1482"
+    },
+    {
+      "name": "emotecraft-for-MC1.21.1-2.4.12-fabric",
+      "file": "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+      "sha1": "9be2a237e27f20d2d00f0036a8be53d7d66c5df5"
+    },
+    {
+      "name": "enchdesc-fabric-1.21.1-21.1.11",
+      "file": "enchdesc-fabric-1.21.1-21.1.11.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/enchdesc-fabric-1.21.1-21.1.11.jar",
+      "sha1": "48c19ec3c55819bb2df4ceef34a7c5caa5e6e699"
+    },
+    {
+      "name": "entityculling-fabric-1.11.3-mc1.21.1",
+      "file": "entityculling-fabric-1.11.3-mc1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/entityculling-fabric-1.11.3-mc1.21.1.jar",
+      "sha1": "5a65a3944e32cc57b73b0f208d15d16fe9df4ed1"
+    },
+    {
+      "name": "explosive-enhancement-1.3.2-1.21-1.21.1",
+      "file": "explosive-enhancement-1.3.2-1.21-1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
+      "sha1": "07725f58e05d46e1a3d9bb774e6b96c6fbe5dcb5"
+    },
+    {
+      "name": "fabric-api-0.116.17+1.21.1",
+      "file": "fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/fabric-api-0.116.17%2B1.21.1.jar",
+      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c"
+    },
+    {
+      "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21",
+      "file": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+      "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0"
+    },
+    {
+      "name": "fancymenu_fabric_3.9.14_MC_1.21.1",
+      "file": "fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "sha1": "1d0e6f2195e14e22323e7e237013e5cb8e909f54"
+    },
+    {
+      "name": "fast-ip-ping-v1.0.12-mc1.21.1-fabric",
+      "file": "fast-ip-ping-v1.0.12-mc1.21.1-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/fast-ip-ping-v1.0.12-mc1.21.1-fabric.jar",
+      "sha1": "18311b2947a8de058930ec0ba213f951483f86e8"
+    },
+    {
+      "name": "fastpaintings-1.21-1.3.1-fabric",
+      "file": "fastpaintings-1.21-1.3.1-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/fastpaintings-1.21-1.3.1-fabric.jar",
+      "sha1": "cc94ed7feefa15b43ce58612b6826632ba92cbe3"
+    },
+    {
+      "name": "ferritecore-7.0.3-fabric",
+      "file": "ferritecore-7.0.3-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/ferritecore-7.0.3-fabric.jar",
+      "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad"
+    },
+    {
+      "name": "ftb-essentials-fabric-2101.1.10",
+      "file": "ftb-essentials-fabric-2101.1.10.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/ftb-essentials-fabric-2101.1.10.jar",
+      "sha1": "92cc7924d80cac7e941e7fbb739f8fe12148fe68"
+    },
+    {
+      "name": "ftb-library-fabric-2101.1.37",
+      "file": "ftb-library-fabric-2101.1.37.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/ftb-library-fabric-2101.1.37.jar",
+      "sha1": "3e7de2621365a2975bff3b3227c9027b12469dec"
+    },
+    {
+      "name": "fzzy_config-0.7.7+1.21",
+      "file": "fzzy_config-0.7.7+1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/fzzy_config-0.7.7%2B1.21.jar",
+      "sha1": "5e96a2f5b0a26417c7f10f5bdbeaa62ec4ec4cd9"
+    },
+    {
+      "name": "geckolib-fabric-1.21.1-4.9.3",
+      "file": "geckolib-fabric-1.21.1-4.9.3.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/geckolib-fabric-1.21.1-4.9.3.jar",
+      "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646"
+    },
+    {
+      "name": "handcrafted-fabric-1.21.1-4.0.3",
+      "file": "handcrafted-fabric-1.21.1-4.0.3.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/handcrafted-fabric-1.21.1-4.0.3.jar",
+      "sha1": "a9579fecd7ed429c282be21d5c921d220197acc6"
+    },
+    {
+      "name": "immersive_paintings-fabric-1.21.1-0.8.0",
+      "file": "immersive_paintings-fabric-1.21.1-0.8.0.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/immersive_paintings-fabric-1.21.1-0.8.0.jar",
+      "sha1": "6ecdb54388662a0d78d4ee2088123791f27629ab"
+    },
+    {
+      "name": "incontrol-1.21.1-10.3.1-fabric",
+      "file": "incontrol-1.21.1-10.3.1-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/incontrol-1.21.1-10.3.1-fabric.jar",
+      "sha1": "1e2fdf665e14a26a5c8baa1116b31bc4b958d9f8"
+    },
+    {
+      "name": "indium-1.0.35+mc1.21",
+      "file": "indium-1.0.35+mc1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/indium-1.0.35%2Bmc1.21.jar",
+      "sha1": "1bf4b5db91f4e6d7a4f94fe2e96525d22df1cacb"
+    },
+    {
+      "name": "iris-fabric-1.8.14-beta.1+mc1.21.1",
+      "file": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5"
+    },
+    {
+      "name": "konkrete_fabric_1.9.9_MC_1.21",
+      "file": "konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0"
+    },
+    {
+      "name": "krypton-0.2.8",
+      "file": "krypton-0.2.8.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/krypton-0.2.8.jar",
+      "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50"
+    },
+    {
+      "name": "lambdynamiclights-4.8.11+1.21.1",
+      "file": "lambdynamiclights-4.8.11+1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/lambdynamiclights-4.8.11%2B1.21.1.jar",
+      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422"
+    },
+    {
+      "name": "language-reload-1.7.6+1.21.1",
+      "file": "language-reload-1.7.6+1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/language-reload-1.7.6%2B1.21.1.jar",
+      "sha1": "95c1266f43e330d4848dcf2e11a6be98a8990ce5"
+    },
+    {
+      "name": "letmedespawn-fabric-1.21.1-1.26.10.2",
+      "file": "letmedespawn-fabric-1.21.1-1.26.10.2.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/letmedespawn-fabric-1.21.1-1.26.10.2.jar",
+      "sha1": "88009c8a7c7b79a69c670fd11805d83806b39894"
+    },
+    {
+      "name": "lithium-fabric-0.15.4+mc1.21.1",
+      "file": "lithium-fabric-0.15.4+mc1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+      "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
+    },
+    {
+      "name": "malilib-fabric-1.21-0.21.10",
+      "file": "malilib-fabric-1.21-0.21.10.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/malilib-fabric-1.21-0.21.10.jar",
+      "sha1": "e2699ef71618c54fc03c6c8b28e336603596dcef"
+    },
+    {
+      "name": "melody_fabric_1.0.10_MC_1.21",
+      "file": "melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/melody_fabric_1.0.10_MC_1.21.jar",
+      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c"
+    },
+    {
+      "name": "minihud-fabric-1.21-0.32.60",
+      "file": "minihud-fabric-1.21-0.32.60.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/minihud-fabric-1.21-0.32.60.jar",
+      "sha1": "302a3cf8a3054b59dc1dba75799d01ef48d66aa5"
+    },
+    {
+      "name": "modernfix-fabric-5.25.1+mc1.21.1",
+      "file": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+      "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
+    },
+    {
+      "name": "modmenu-11.0.5",
+      "file": "modmenu-11.0.5.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/modmenu-11.0.5.jar",
+      "sha1": "2321d890a25b5985eba576d7cd8fe9a9c136e33d"
+    },
+    {
+      "name": "moonlight-1.21.1-3.7.2-fabric",
+      "file": "moonlight-1.21.1-3.7.2-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/moonlight-1.21.1-3.7.2-fabric.jar",
+      "sha1": "7db7c0999fb29579790edae83292622cee933e20"
+    },
+    {
+      "name": "moreculling-fabric-1.21.1-1.0.10",
+      "file": "moreculling-fabric-1.21.1-1.0.10.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/moreculling-fabric-1.21.1-1.0.10.jar",
+      "sha1": "d425f77706d8f6499aae64eb804b3802dad111d4"
+    },
+    {
+      "name": "notenoughcrashes-fabric-4.4.9+1.21.1",
+      "file": "notenoughcrashes-fabric-4.4.9+1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar",
+      "sha1": "0de122f1e94b85308bcecb0ebc40ac48c13367a9"
+    },
+    {
+      "name": "placeholder-api-2.4.2+1.21",
+      "file": "placeholder-api-2.4.2+1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/placeholder-api-2.4.2%2B1.21.jar",
+      "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3"
+    },
+    {
+      "name": "plasmovoice-fabric-1.21.1-2.2.0-beta.2",
+      "file": "plasmovoice-fabric-1.21.1-2.2.0-beta.2.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/plasmovoice-fabric-1.21.1-2.2.0-beta.2.jar",
+      "sha1": "f92e3e273f9b7f9d3a11675d3bda40c8656994d8"
+    },
+    {
+      "name": "prickle-fabric-1.21.1-21.1.11",
+      "file": "prickle-fabric-1.21.1-21.1.11.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/prickle-fabric-1.21.1-21.1.11.jar",
+      "sha1": "6d6032880be3b6469c5615fd2ea160bf5eb93ac2"
+    },
+    {
+      "name": "reeses-sodium-options-fabric-2.2.4+mc1.21.1",
+      "file": "reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar",
+      "sha1": "552c80c3113ad346c3abcdf7c5c6cc3a02a5fb62"
+    },
+    {
+      "name": "resourcefulconfig-fabric-1.21-3.0.11",
+      "file": "resourcefulconfig-fabric-1.21-3.0.11.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/resourcefulconfig-fabric-1.21-3.0.11.jar",
+      "sha1": "f6a0df7cf464d1c94458ef075bead82033add9c9"
+    },
+    {
+      "name": "resourcefullib-fabric-1.21-3.0.12",
+      "file": "resourcefullib-fabric-1.21-3.0.12.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/resourcefullib-fabric-1.21-3.0.12.jar",
+      "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd"
+    },
+    {
+      "name": "sodium-fabric-0.8.13+mc1.21.1",
+      "file": "sodium-fabric-0.8.13+mc1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
+    },
+    {
+      "name": "spark-1.10.109-fabric",
+      "file": "spark-1.10.109-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/spark-1.10.109-fabric.jar",
+      "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1"
+    },
+    {
+      "name": "structure_layout_optimizer-fabric-1.0.12",
+      "file": "structure_layout_optimizer-fabric-1.0.12.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/structure_layout_optimizer-fabric-1.0.12.jar",
+      "sha1": "2ca2f8650794b271d439fc8cb703ed85f1fde068"
+    },
+    {
+      "name": "supermartijn642configlib-1.1.8-fabric-mc1.21",
+      "file": "supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+      "sha1": "8427e42f1db8ea7b4b6c21cc94bfcfa398f0ff63"
+    },
+    {
+      "name": "supplementaries-1.21.1-4.0.2-fabric",
+      "file": "supplementaries-1.21.1-4.0.2-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/supplementaries-1.21.1-4.0.2-fabric.jar",
+      "sha1": "761a561938ced83d5e38da50cdc44899b5052f3e"
+    },
+    {
+      "name": "trashslot-fabric-1.21.1-21.1.11",
+      "file": "trashslot-fabric-1.21.1-21.1.11.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/trashslot-fabric-1.21.1-21.1.11.jar",
+      "sha1": "1e58a95ebfd9c2078fcba4100f1afa80512c9f94"
+    },
+    {
+      "name": "txnilib-fabric-1.0.24-1.21.1",
+      "file": "txnilib-fabric-1.0.24-1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/txnilib-fabric-1.0.24-1.21.1.jar",
+      "sha1": "95bd43012b414ce13efaba4b2fbd73dcd8951775"
+    },
+    {
+      "name": "voicechat-fabric-1.21.1-2.6.25",
+      "file": "voicechat-fabric-1.21.1-2.6.25.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/voicechat-fabric-1.21.1-2.6.25.jar",
+      "sha1": "6787627a52c08950879ac28f2edd6750fb46bb0e"
+    },
+    {
+      "name": "watermedia-3.0.0.23",
+      "file": "watermedia-3.0.0.23.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/watermedia-3.0.0.23.jar",
+      "sha1": "a644ab079cc9ed19a62b181e0252be5a9a422166"
+    },
+    {
+      "name": "watermedia_binaries-3.0.0.6",
+      "file": "watermedia_binaries-3.0.0.6.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/watermedia_binaries-3.0.0.6.jar",
+      "sha1": "8f132fc2fec0fe91a9a085c11088f0773da187fc"
+    },
+    {
+      "name": "worldedit-mod-7.3.8",
+      "file": "worldedit-mod-7.3.8.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/worldedit-mod-7.3.8.jar",
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
+    },
+    {
+      "name": "xaerominimap-fabric-1.21.1-26.6.0",
+      "file": "xaerominimap-fabric-1.21.1-26.6.0.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/xaerominimap-fabric-1.21.1-26.6.0.jar",
+      "sha1": "5fbb03dd3f22c0c3d5466d1366222d7d277a8df3"
+    },
+    {
+      "name": "xaeroworldmap-fabric-1.21.1-1.47.0",
+      "file": "xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+      "sha1": "db7ad23fe512dbc13a8286844fd9277c08a7ef5a"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric",
+      "file": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+      "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
+    },
+    {
+      "name": "zoomify-2.15.2+1.21.1",
+      "file": "zoomify-2.15.2+1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/zoomify-2.15.2%2B1.21.1.jar",
+      "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
+    }
+  ]
 }
+
