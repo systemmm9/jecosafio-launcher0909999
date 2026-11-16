@@ -561,6 +561,373 @@
       "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/zoomify-2.15.2%2B1.21.1.jar",
       "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
     }
+  ],
+  "files": [
+    {
+      "path": "config/fancymenu/assets/jecosafio16x16.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jecosafio16x16.png",
+      "sha1": "00e3fb4442b0f9907d7d71bb6b473cc5fa3d10c4",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jecosafio32x32.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jecosafio32x32.png",
+      "sha1": "37afa2eee9fff01bbf81f838296330f13382cc3e",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jecosafiobacktitle.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jecosafiobacktitle.png",
+      "sha1": "18d5fbc5bb67424492044bfb62fd3e09a0e8eaee",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jecosafioicon.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jecosafioicon.png",
+      "sha1": "cda31fff42e3d352b1969114db6b39e3dd5ce373",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jecosafioiconmac.icns",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jecosafioiconmac.icns",
+      "sha1": "b45870496c78ca3fedb6fd435c91c426d55ba36c",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jecosafiotittle.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jecosafiotittle.png",
+      "sha1": "09acf6d862252f4353c12b40e6cb0b62358a9a43",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jecosafiototitlee2.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jecosafiototitlee2.png",
+      "sha1": "8efa086442d51fa75787106f22ded02a047bc20f",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jugar1.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jugar1.png",
+      "sha1": "5457dad41bf1222e7c37a408981802473f4417c2",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jugar2.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jugar2.png",
+      "sha1": "4b26743e954cd17746535b8a2d933d6dea1e703e",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/jugar3.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jugar3.png",
+      "sha1": "254fae44ecdacda6cbb3a717c4e5a45050284e3a",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/logo.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/logo.png",
+      "sha1": "05669cc988c5a68c569d8f915628d1bcd0f98c69",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/opciones1.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/opciones1.png",
+      "sha1": "da86bcdb536b87bbd86b9d85b1e668c109c22d5e",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/opciones2.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/opciones2.png",
+      "sha1": "385e6a978902d5e264c46331dbc58580c98958dc",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/playbackbutom1.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/playbackbutom1.png",
+      "sha1": "17afd28e5ccf2637d0273c214bdd9b21b9f78fff",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/salir.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/salir.png",
+      "sha1": "9b2daf16f2a403120a07b662fefd745ddc2e052b",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/salir2.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/salir2.png",
+      "sha1": "e5caced71007cc2b31da083c64d720277497f8aa",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/salir3.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/salir3.png",
+      "sha1": "2a8624a890b1b58c09b965413c970d67f22cafa5",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/soyjecobackgrounds.mp4",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/soyjecobackgrounds.mp4",
+      "sha1": "acea89821c655fad7c10999128da3ed43e2a982e",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/system_lasbspng.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/system_lasbspng.png",
+      "sha1": "ef11634ce0fbba8258795987b18d01c8a849172f",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/xsalir1.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/xsalir1.png",
+      "sha1": "9f2f5055ea0b082bb34eead9c6a9863e6cb1d496",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/assets/xsalir2.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/xsalir2.png",
+      "sha1": "afb8dd011b4342430696025716acd5f773768b06",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/customizablemenus.txt",
+      "sha1": "fad1af9353e4eb1bf0ba12e6f8c544c8a43819ee",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/customization/creative_mode_inventory_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/customization/creative_mode_inventory_screen_layout.txt",
+      "sha1": "c3cc8dc00feef45d871d6e9cb06aaaff629333d2",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/customization/ingame_pause_scream_layout.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/customization/ingame_pause_scream_layout.txt",
+      "sha1": "81cb7647a3f321f82137da717f479a2b53a0d948",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/customization/inventory_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/customization/inventory_screen_layout.txt",
+      "sha1": "24e41bbe5c6c9cc7fc16abfb05dd4b9ccd3b1c7f",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/customization/title_rolplayer_screen.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/customization/title_rolplayer_screen.txt",
+      "sha1": "04f1b7307c53498184cb2e174baee52cf32e58ec",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "801bd5e0d9f22e8b238bd81c95b636af22257030",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/customization/universal_layoutjecofondo.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/customization/universal_layoutjecofondo.txt",
+      "sha1": "4a17e866611243cb608efd2382ce101046ec04ed",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/customization/videooptionst.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/customization/videooptionst.txt",
+      "sha1": "dfd839fffb72851bfb19b98b09e70dcee33e1d9c",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "a87d9eee1c6d38726797d4e611b3ce976cade110",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/options.txt",
+      "sha1": "83ac7fe6fbaf54e7ac322659542f00e4376665ab",
+      "overwrite": false
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/user_variables.db",
+      "sha1": "b311ae2fe7b135bf2ce9d0d5d3986489ee39d3ce",
+      "overwrite": true
+    },
+    {
+      "path": "config/fancymenu/video_element_controller_metas.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/video_element_controller_metas.json",
+      "sha1": "43acfcbc8315a1e180eb583c65151d2edc34f4ec",
+      "overwrite": true
+    },
+    {
+      "path": "config/minihud.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/minihud.json",
+      "sha1": "c7b146b4ba1c64f470c043ff838973155f08c7f4",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/lib/client.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/lib/common.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/lib/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/minimap/client.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/client.cfg",
+      "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/minimap/common.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/common.cfg",
+      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/default_radar_categories_client.json",
+      "sha1": "3883f4b50d5c56d0ad5034b4405050f28d9b40de",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_server.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/default_radar_categories_server.json",
+      "sha1": "c247867b018103357eb4015059fe209cc562de51",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/profiles/default.cfg",
+      "sha1": "3f990c86b3016b6ad2777cde801c301daf999a90",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+      "sha1": "e058f3dfac7d6a3441196628f1aa93616721ecce",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/minimap/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/world-map/client.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/world-map/client.cfg",
+      "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/world-map/common.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/world-map/common.cfg",
+      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/world-map/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/world-map/profiles/default.cfg",
+      "sha1": "4e4be828ebd88c0b5c582694944d6c50f2a0a009",
+      "overwrite": true
+    },
+    {
+      "path": "config/xaero/world-map/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/world-map/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "overwrite": true
+    }
   ]
 }
-
