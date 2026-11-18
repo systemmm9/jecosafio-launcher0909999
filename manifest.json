@@ -58,16 +58,10 @@
       "sha1": "1e12b0d7c310ad60bd648dd97cbc459ab57eaa38"
     },
     {
-      "name": "CustomPlayerModels-Fabric-1.21-0.6.27a",
-      "file": "CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
-      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
-      "sha1": "bc902bd297c54d50b1ed7ffd2036464c970b0703"
-    },
-    {
-      "name": "DEDsafio4FanByNavithLabs-1.4.0-1.21.1",
-      "file": "DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
-      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
-      "sha1": "d2a9ced04ed7ee07b210ea63f87889f501b86ee2"
+      "name": "DEDsafio4FanByNavithLabs-1.4.22-1.21.1",
+      "file": "DEDsafio4FanByNavithLabs-1.4.22-1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/DEDsafio4FanByNavithLabs-1.4.22-1.21.1.jar",
+      "sha1": "016f2c9b927aff8af5c16c007a4ec0914df3d9b2"
     },
     {
       "name": "EonRevil-1.0.0",
@@ -196,6 +190,12 @@
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
     },
     {
+      "name": "continuity-3.0.0+1.21",
+      "file": "continuity-3.0.0+1.21.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/continuity-3.0.0%2B1.21.jar",
+      "sha1": "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c"
+    },
+    {
       "name": "distraction_free_recipes-fabric-1.2.1-1.21.1",
       "file": "distraction_free_recipes-fabric-1.2.1-1.21.1.jar",
       "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/distraction_free_recipes-fabric-1.2.1-1.21.1.jar",
@@ -236,12 +236,6 @@
       "file": "emi-1.1.24+1.21.1+fabric.jar",
       "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/emi-1.1.24%2B1.21.1%2Bfabric.jar",
       "sha1": "6abcf2a10a629e401bff73a8fd1ad328a72b1482"
-    },
-    {
-      "name": "emotecraft-for-MC1.21.1-2.4.12-fabric",
-      "file": "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
-      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
-      "sha1": "9be2a237e27f20d2d00f0036a8be53d7d66c5df5"
     },
     {
       "name": "enchdesc-fabric-1.21.1-21.1.11",
@@ -472,6 +466,12 @@
       "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd"
     },
     {
+      "name": "skinlayers3d-fabric-1.11.4-mc1.21.1",
+      "file": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+      "sha1": "59b73891befcbd20a977a903eac8e212287a31f8"
+    },
+    {
       "name": "sodium-fabric-0.8.13+mc1.21.1",
       "file": "sodium-fabric-0.8.13+mc1.21.1.jar",
       "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
@@ -538,18 +538,6 @@
       "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
     },
     {
-      "name": "xaerominimap-fabric-1.21.1-26.6.0",
-      "file": "xaerominimap-fabric-1.21.1-26.6.0.jar",
-      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/xaerominimap-fabric-1.21.1-26.6.0.jar",
-      "sha1": "5fbb03dd3f22c0c3d5466d1366222d7d277a8df3"
-    },
-    {
-      "name": "xaeroworldmap-fabric-1.21.1-1.47.0",
-      "file": "xaeroworldmap-fabric-1.21.1-1.47.0.jar",
-      "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
-      "sha1": "db7ad23fe512dbc13a8286844fd9277c08a7ef5a"
-    },
-    {
       "name": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric",
       "file": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
       "url": "https://github.com/systemmm9/jecosafio-launcher0909999/releases/download/mods-v1/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
@@ -563,6 +551,12 @@
     }
   ],
   "files": [
+    {
+      "path": "config/emi.css",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/emi.css",
+      "sha1": "343965920db3a8d96299ceba445584ba9e22d934",
+      "overwrite": true
+    },
     {
       "path": "config/fancymenu/assets/jecosafio16x16.png",
       "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/assets/jecosafio16x16.png",
@@ -758,7 +752,7 @@
     {
       "path": "config/fancymenu/options.txt",
       "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/fancymenu/options.txt",
-      "sha1": "83ac7fe6fbaf54e7ac322659542f00e4376665ab",
+      "sha1": "6081866fccd804aca9d8cd2c95795bfb0923ac89",
       "overwrite": false
     },
     {
@@ -828,105 +822,189 @@
       "overwrite": true
     },
     {
+      "path": "config/ftbessentials.snbt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ftbessentials.snbt",
+      "sha1": "e89c40ca6663134619b2d040a7355ce0c3dc5c2e",
+      "overwrite": true
+    },
+    {
+      "path": "config/ftblibrary-client.snbt",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ftblibrary-client.snbt",
+      "sha1": "a8eb32ef622430eddf1ac919cbd6987167903182",
+      "overwrite": true
+    },
+    {
       "path": "config/minihud.json",
       "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/minihud.json",
       "sha1": "c7b146b4ba1c64f470c043ff838973155f08c7f4",
       "overwrite": true
     },
     {
-      "path": "config/xaero/lib/client.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/lib/client.cfg",
-      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+      "path": "config/ruleta/disfraces/banquito.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/banquito.bbmodel",
+      "sha1": "f38c6b995d180d9be3adaf7fb36c74ac80d80154",
       "overwrite": true
     },
     {
-      "path": "config/xaero/lib/common.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/lib/common.cfg",
-      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+      "path": "config/ruleta/disfraces/churri.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/churri.bbmodel",
+      "sha1": "9b017340059fe1eff1a3b35cbdfe215112198be1",
       "overwrite": true
     },
     {
-      "path": "config/xaero/lib/profiles/default.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/lib/profiles/default.cfg",
-      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+      "path": "config/ruleta/disfraces/diabli.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/diabli.bbmodel",
+      "sha1": "bdc8e9a8e74de74ba6634865a7b2d21f85354328",
       "overwrite": true
     },
     {
-      "path": "config/xaero/lib/server_profiles/default.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/lib/server_profiles/default.cfg",
-      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "path": "config/ruleta/disfraces/eon.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/eon.bbmodel",
+      "sha1": "b50684d90414df836e910c178b370a46c4f10b8d",
       "overwrite": true
     },
     {
-      "path": "config/xaero/minimap/client.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/client.cfg",
-      "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19",
+      "path": "config/ruleta/disfraces/juansnutria.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/juansnutria.bbmodel",
+      "sha1": "5cd2d6cfb48880449091459c9811e153689d0617",
       "overwrite": true
     },
     {
-      "path": "config/xaero/minimap/common.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/common.cfg",
-      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
+      "path": "config/ruleta/disfraces/mapache.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/mapache.bbmodel",
+      "sha1": "83a3c7b79e27275fc68c2786bcb2cb0789f31671",
       "overwrite": true
     },
     {
-      "path": "config/xaero/minimap/default_radar_categories_client.json",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/default_radar_categories_client.json",
-      "sha1": "3883f4b50d5c56d0ad5034b4405050f28d9b40de",
+      "path": "config/ruleta/disfraces/nutria-gasnter.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutria-gasnter.bbmodel",
+      "sha1": "0643eba0f544740f2a865fe08c02d95c57ee76c4",
       "overwrite": true
     },
     {
-      "path": "config/xaero/minimap/default_radar_categories_server.json",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/default_radar_categories_server.json",
-      "sha1": "c247867b018103357eb4015059fe209cc562de51",
+      "path": "config/ruleta/disfraces/nutria.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutria.bbmodel",
+      "sha1": "f34fdaacd1c18dbb6e650ab2ae09c9d228cb43cb",
       "overwrite": true
     },
     {
-      "path": "config/xaero/minimap/profiles/default.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/profiles/default.cfg",
-      "sha1": "3f990c86b3016b6ad2777cde801c301daf999a90",
+      "path": "config/ruleta/disfraces/nutria_ia.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutria_ia.bbmodel",
+      "sha1": "dfa90c4f66ad8f6f4baa23a856516d6314ba9350",
       "overwrite": true
     },
     {
-      "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-      "sha1": "e058f3dfac7d6a3441196628f1aa93616721ecce",
+      "path": "config/ruleta/disfraces/nutriaabeja.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriaabeja.bbmodel",
+      "sha1": "6364f7083a60ab432263e2b4cbe8ab478e614cca",
       "overwrite": true
     },
     {
-      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-      "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88",
+      "path": "config/ruleta/disfraces/nutriabetis.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriabetis.bbmodel",
+      "sha1": "d088b25f7cc736a5d89b250d30f11fe263cffea3",
       "overwrite": true
     },
     {
-      "path": "config/xaero/minimap/server_profiles/default.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/minimap/server_profiles/default.cfg",
-      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "path": "config/ruleta/disfraces/nutriaboxeadora.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriaboxeadora.bbmodel",
+      "sha1": "ae16429a618ba58bf38a8aff24b503b04405e939",
       "overwrite": true
     },
     {
-      "path": "config/xaero/world-map/client.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/world-map/client.cfg",
-      "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea",
+      "path": "config/ruleta/disfraces/nutriacalabaza.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriacalabaza.bbmodel",
+      "sha1": "09be92aae8024e03355449cbf9e0d4450993c4bf",
       "overwrite": true
     },
     {
-      "path": "config/xaero/world-map/common.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/world-map/common.cfg",
-      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+      "path": "config/ruleta/disfraces/nutriaconstructora.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriaconstructora.bbmodel",
+      "sha1": "835837f43969a5d2f1ced45142de9a523d8ae270",
       "overwrite": true
     },
     {
-      "path": "config/xaero/world-map/profiles/default.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/world-map/profiles/default.cfg",
-      "sha1": "4e4be828ebd88c0b5c582694944d6c50f2a0a009",
+      "path": "config/ruleta/disfraces/nutriadetective.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriadetective.bbmodel",
+      "sha1": "646c6a4faf4e609e89c90e1046b4092b38585b79",
       "overwrite": true
     },
     {
-      "path": "config/xaero/world-map/server_profiles/default.cfg",
-      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/xaero/world-map/server_profiles/default.cfg",
-      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+      "path": "config/ruleta/disfraces/nutriadj.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriadj.bbmodel",
+      "sha1": "7356c19908cddd8379646dca875bf529c5f6d6e0",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/nutriaelegante.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriaelegante.bbmodel",
+      "sha1": "463b26673a7a046aa0476e79de3f31567bb6577b",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/nutriahoja.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriahoja.bbmodel",
+      "sha1": "e8609f353d1be29b6f122ce4f262b0ae44e1575f",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/nutrianeitor.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutrianeitor.bbmodel",
+      "sha1": "fa5e015e4d859769ad885344e7ba4cf8bf133e4a",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/nutriaplaya.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriaplaya.bbmodel",
+      "sha1": "cc384282084bc72d2ffd5751836e5182d2891b9e",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/nutriawatona.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/nutriawatona.bbmodel",
+      "sha1": "c22be671dd81059bb46b90cdba1028cca93b356c",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/papuche.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/papuche.bbmodel",
+      "sha1": "bd8063738f3b8bdf0ad0a21d86f292fd7087bf23",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/papunutria.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/papunutria.bbmodel",
+      "sha1": "c2ce3b67a5ef60d8e12dcae43be39c0840ebd6dc",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/parcenutria.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/parcenutria.bbmodel",
+      "sha1": "1f7b34b28056780bb522a8b870409a24bd9f03d9",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/pe23.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/pe23.bbmodel",
+      "sha1": "e7f998d602d18cd8ee3134d816137ac8c2145dc1",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/sombrita.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/sombrita.bbmodel",
+      "sha1": "91e552d02236f2748796619b6ba61c35ae669bcd",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/disfraces/unicornio.bbmodel",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/disfraces/unicornio.bbmodel",
+      "sha1": "944c14c8d9eac37af0ca35bd742902755482276c",
+      "overwrite": true
+    },
+    {
+      "path": "config/ruleta/tab/logo.png",
+      "url": "https://raw.githubusercontent.com/systemmm9/jecosafio-launcher0909999/main/files/config/ruleta/tab/logo.png",
+      "sha1": "5c20fbb2705741baa7d2b4cdd343cb9a21bf232c",
       "overwrite": true
     }
   ]
